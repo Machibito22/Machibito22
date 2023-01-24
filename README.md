@@ -1,16 +1,17 @@
-### Hi there 👋
+# Guillermo Brito
 
-<!--
-**Machibito22/Machibito22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Tux Crystal 2](https://raw.githubusercontent.com/Machibito22/Machibito22/main/images/Tux-Crystal-2.svg)
 
-Here are some ideas to get you started:
+Hi, I'm Guillermo Brito and I'm a fan of videogames.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub account, I use my account to make contributions and also to host my own [projects](https://github.com/Machibito22?tab=repositories).
+
+You can also find me in other places on the internet under the username Machibito22, but mainly you can find me at:
+
+* [Facebook](https://www.facebook.com/Machibito22)
+* [Twitter](https://twiiter.com/Machibito22)
+* [Instagram](https://instagram.com/machibito22)
+* [Mastodon](https://fosstodon.org/@Machibito22)
+* [Blog](https://machibito22.github.io/)
+
+You can also contact me by writing to my [email](mailto:machibito22@gmail.com)
