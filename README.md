@@ -1,8 +1,8 @@
 # Guillermo Brito
 
-![Tux Crystal 2](https://raw.githubusercontent.com/Machibito22/Machibito22/main/images/Tux_Crystal_2.svg)
+![Tux Crystal 2](https://raw.githubusercontent.com/Machibito22/Machibito22/main/images/2023_Guillermo_Brito_(Machibito22).jpg)
 
-Hi, I'm Guillermo Brito and I'm a fan of videogames.
+I am a novice programmer and I am a fan of video games.
 
 Welcome to my GitHub account, I use my account to make contributions and also to host my own [projects](https://github.com/Machibito22?tab=repositories).
 
@@ -13,7 +13,6 @@ You can also find me in other places on the internet under the username Machibit
 * [Instagram](https://www.instagram.com/machibito22)
 * [Mastodon](https://fosstodon.org/@Machibito22)
 * [Telegram](https://t.me/Machibito22)
-* [YouTube](https://www.youtube.com/@Machibito22)
 * [Blog](https://machibito22.github.io/)
 
 You can also contact me by writing to my [email](mailto:machibito22@gmail.com).
