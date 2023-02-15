@@ -1,6 +1,6 @@
 # Guillermo Brito
 
-![Tux Crystal 2](https://raw.githubusercontent.com/Machibito22/Machibito22/main/images/2023_Guillermo_Brito_(Machibito22).jpg)
+![Photography by Guillermo Brito](https://raw.githubusercontent.com/Machibito22/Machibito22/main/images/2023_Guillermo_Brito_(Machibito22).jpg)
 
 I am a novice programmer and I am a fan of video games.
 
