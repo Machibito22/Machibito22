@@ -8,9 +8,14 @@ I use GitHub to contribute to open source projects and also to host my own [proj
 
 You can find me elsewhere on the internet under the username **Machibito22** but mainly you can find me at:
 
+* [Blog](https://machibito22.github.io/)
 * [Facebook](https://www.facebook.com/Machibito22)
 * [Twitter](https://twitter.com/Machibito22)
 * [Instagram](https://www.instagram.com/machibito22)
 * [Mastodon](https://mastodon.social/@Machibito22)
+* [Telegram](https://t.me/Machibito22)
+* [YouTube](https://www.youtube.com/@Machibito22)
+* [Twitch](https://www.twitch.tv/)
+* [TikTok](https://www.tiktok.com/@machibito22)
 
 If you want to talk with me you can send me a message to my [email](mailto:machibito22@gmail.com) as long as it is not for promotional purposes.
